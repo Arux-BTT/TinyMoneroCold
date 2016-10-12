@@ -1,0 +1,24 @@
+Type one of the following:  plus core
+and optionally enter one or more additional space seperated options:
+
+ {cron|syslog}              Start various daemons at boot
+ host=xxxx                  Set hostname to xxxx
+ secure                     Set password
+ protect                    Password Encrypted Backup
+ noautologin                Skip automatic login
+ tz=GMT+8                   Timezone tz=PST+8PDT,M3.2.0/2,M11.1.0/2
+ user=abc                   Specify alternate user
+ desktop=yyy                Specify alternate window manager
+ laptop                     Force load laptop related modules
+ noembed                    Unpack initramfs to tmpfs 
+ nozswap                    Skip compressed swap in ram
+ xvesa=800x600x32           Set Xvesa default screen resolution
+ mydata=yyyy                Specify alternate name for backup file
+ blacklist=ssb              Blacklist a single module
+ multivt                    Allows for multiple virtual terminals
+ 
+ 
+ 
+ 
+ Press ESC to return to the main menu.
+ Press F2, F3, or F4 to view additional boot options.
