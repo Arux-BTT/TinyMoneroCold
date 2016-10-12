@@ -1,0 +1,8 @@
+pixman.tcz
+fontconfig.tcz
+libpng.tcz
+libXrender.tcz
+libXext.tcz
+libEGL.tcz
+glib2.tcz
+freetype.tcz
