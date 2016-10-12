@@ -27,3 +27,8 @@ Xprogs.tcz
 Xvesa.tcz
 kmaps.tcz
 firefox-ESR.tcz
+gnupg.tcz
+gnupg-locale.tcz
+gnupg-doc.tcz
+gnupgV1symlink.tcz
+git

@@ -1,0 +1,1 @@
+81c71d286ce8b6fd2c2865c415cf7279  gnupg-locale.tcz

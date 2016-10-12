@@ -68,4 +68,21 @@ gdk-pixbuf2.tcz
 atk.tcz
 gtk2.tcz
 firefox-ESR.tcz
+pth.tcz
+libattr.tcz
+libcap.tcz
+pinentry.tcz
+libgpg-error.tcz
+libksba.tcz
+libgcrypt.tcz
+libassuan.tcz
+gnupg.tcz
+gnupg-locale.tcz
+gnupg-doc.tcz
+gnupgV1symlink.tcz
+openssl.tcz
+libssh2.tcz
+libidn.tcz
+curl.tcz
+git.tcz
 

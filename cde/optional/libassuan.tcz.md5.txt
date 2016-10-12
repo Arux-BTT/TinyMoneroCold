@@ -1,0 +1,1 @@
+47d5d7f9ade2d087f4e6a52a8c9d6cd2  libassuan.tcz
