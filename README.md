@@ -15,7 +15,7 @@ The security is crucial. There is no unknown code in TinyMoneroCold. All the con
 
 ## How secure is it ?
 
-Fisrt, all is running in RAM, so if you are offline and if you remove all drive, there's no way to record anything.
+First, all runs in RAM, so if you are offline and if you remove all drives, there's no way to record anything.
 
 Secondly, the tcz extensions comes from http://tinycorelinux.net and are supplied with their md5 checksum. I only added three tcz extensions: gnupgV1symlink.tcz, monero-wallet-generator.tcz and monero-wallet-cli.x86.v0-10-0-0.tcz.
 
@@ -30,4 +30,4 @@ monero-wallet-cli.x86.v0-10-0-0.tcz is the official 32bits binary from [https://
 
 ## Stay paranoid !
 
-when you want to store a significant amount of Monero, always use this tool **offline and without drive**. 
+when you want to store a significant amount of Monero, always use this tool **offline and without any drives**. 
