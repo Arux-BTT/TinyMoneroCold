@@ -24,9 +24,9 @@ To audit a tcz extension, use "unsquashfs extension_name.tcz", a directory named
 
 gnupgV1symlink.tcz is a symlink gpg->gpg2.
 
-monero-wallet-generator.tcz is the clone of [https://moneroaddress.org/](https://moneroaddress.org/) and can be checked with GnuPG2.
+monero-wallet-generator_c04a4e8.tcz is the clone of [https://github.com/moneromooo-monero/monero-wallet-generator/](https://github.com/moneromooo-monero/monero-wallet-generator/) and can be checked with GnuPG2.
 
-monero-wallet-cli.x86.v0-10-0-0.tcz is the official 32bits binary from [https://getmonero.org/](https://getmonero.org/downloads/) and can be checked with checksum.
+monero-wallet-cli.x86.v0.10.3.1.tcz is the official 32bits binary from [https://getmonero.org/](https://getmonero.org/downloads/) and can be checked with checksum.
 
 ## Stay paranoid !
 
