@@ -17,7 +17,7 @@ The security is crucial. There is no unknown code in TinyMoneroCold. All the con
 
 First, all runs in RAM, so if you are offline and if you remove all drives, there's no way to record anything.
 
-Secondly, the tcz extensions comes from http://tinycorelinux.net and are supplied with their md5 checksum. I only added three tcz extensions: gnupgV1symlink.tcz, monero-wallet-generator.tcz and monero-wallet-cli.x86.v0-10-0-0.tcz.
+Secondly, the tcz extensions comes from http://tinycorelinux.net and are supplied with their md5 checksum. I only added three tcz extensions: gnupgV1symlink.tcz, monero-wallet-generator_c04a4e8.tcz and monero-wallet-cli.x86.v0.10.3.1.tcz.
 
 To audit a tcz extension, use "unsquashfs extension_name.tcz", a directory named "squashfs-root" will be created, containing all the files of the extension.
 
